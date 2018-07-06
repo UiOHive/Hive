@@ -5,6 +5,24 @@
  font-size: 110px;
 }
 
+
+.site-avatar {
+  float: left;
+  width: 60px;
+  height: auto;
+  margin-right: 15px;
+
+  @include mobile {
+    float: none;
+    display: block;
+    margin: 0 auto;
+  }
+
+  img {
+    border-radius: 5px;
+  }
+}
+
 @media(max-width: 991px) {
   ul.events {
     padding-left: 0;
