@@ -3,8 +3,8 @@
 
 #Step 1: give your study group a name and a short description,
 #and choose a language from the options in the _data directory:
-title: Our Study Group
-description: "A study group."
+title: UiOHive
+description: "UiOHive is an initiative from the Department of Geosciences (University of Oslo, Norway) to establish a local knowledge hub around the development of new observation devices and connect individuals with different backgrounds and titles (technicians, lab engineer, research software engineers, students, PhDs, postdocs, researchers, etc.) but all interested in utilizing IoT technologies, applying AI/ML to solve data challenges, and sharing knowledge across relevant interdisciplinary domains."
 language: en
 
 #Step 2: press the green 'Commit Changes' button at the bottom of this page.
