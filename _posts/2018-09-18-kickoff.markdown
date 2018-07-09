@@ -8,3 +8,14 @@ startTime: '09:30'
 endTime: '16:00'
 
 ---
+
+UiOHive is an initiative from the Department of Geosciences (University of Oslo, Norway) to establish a local knowledge hub around the development of new observation devices and connect individuals with different backgrounds and titles (technicians, lab engineer, research software engineers, students, PhDs, postdocs, researchers, etc.) but all interested in utilizing IoT technologies, applying AI/ML to solve data challenges, and sharing knowledge across relevant interdisciplinary domains.
+
+To establish a community and form a foundation of knowledge, UiOHive will provide the infrastructure to 
+
+1. educate (workshops, hackathons) students and scientists about the potential of IoT technology for building new observation tools, 
+
+2. share existing facilities (electronic labs, in-situ Research Station), 
+
+3. create collaborative platform to share solutions, problems, and simply exchange across departments at the university.
+
