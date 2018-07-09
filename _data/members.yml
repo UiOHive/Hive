@@ -1,6 +1,22 @@
-- name: Bill Mills
-  affiliation: TRIUMF
-  github: BillMills
+- name: Simon Filhol
+  affiliation: University of Oslo
+  github: articsnow
   interests:
-    - Programming
-    - Open Science
+    - Dynamic and interactions of seasonal snow on the ground in boreal and Arctic environments.
+
+- name: Anne Fouilloux
+  affiliation: University of Oslo
+  github: annefou
+  interests:
+    - Python
+    - R
+    - Fortran 
+    - HPC & Cloud computing
+    - The Carpentries
+
+- name: John Burkhart
+  affiliation: University of Oslo
+  github: jfburkhart
+  interests:
+    - Hydrologic and Atmospheric Research in Arctic and Cryospheric Systems
+
