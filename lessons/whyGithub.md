@@ -1,4 +1,4 @@
-#Why a Github account?
+# Why a Github account?
 
  - **Authors**: Simon Filhol
  - **Research field**: Geosciences
@@ -13,7 +13,7 @@ All over the internet you will find many references about git and Github. The si
 
 ## Why a version control software?
 
-So the software [git](https://git-scm.com/) is the Version Control software that will help you track changes to your code, and set your code back to previous version easily. Originaly designed for code, this software can be used for other type of projects (*e.g.* website, notes, electronic project, etc.). 
+So the software [git](https://git-scm.com/) is the Version Control software that will help you track changes to your code, and set your code back to previous version easily. Originally designed for code, this software can be used for other type of projects (*e.g.* website, notes, electronic project, etc.). 
 
 This becomes very convenient when your code (or project.) starts to evolve and you want to keep an history of the changes, as well as being able to go back to a previous version which for instance free of a recently added bug.
 
@@ -28,7 +28,7 @@ The first step is to open an account on Github, or use your UiO github account. 
 
 For doing all this process, I usually have in my Home directory, a folder called *github*, in which I have all my different projects. This is for instance the place I will *clone* the various projects I would like to work on. From this folder, I typically use a terminal where to run the few useful commands. Depending on the OS platform you are using (e.g. Windows, MacOS or Linux), you might find software with a graphical interface, but many, simply use the command line from a terminal to go through that process. There is a set of few basic functions to know, which becomes quick and handy to use from a terminal. No need to panic! 
 
-With this process, you will build over many days multiple version of your code, and every changes you had done will be remenbered and accessible. There are plenty of online tutorial online, from websites to videos.
+With this process, you will build over many days multiple version of your code, and every changes you had done will be remembered and accessible. There are plenty of online tutorial from websites to videos.
 
 - Some websites we like:
 	- http://swcarpentry.github.io/git-novice/
@@ -36,19 +36,11 @@ With this process, you will build over many days multiple version of your code, 
 	- https://try.github.io/
 	- https://lifehacker.com/5983680/how-the-heck-do-i-use-github
 - videos:
-	- well, cruise Youtube, there are many!  ;)
+	- well, browse Youtube, there are many!  ;)
 
 
+## Why should you learn it?
 
+While Github is a service provider, and many other organizations provide similar services that might suit better your needs, knowing the concept behind Git is extremely useful for collaborating efficiently on a project. If tomorrow you would like to collaborate on a paper, or a software project, then you already know the concepts and an actual tool to realize this collaboration effectively among your team members. 
 
-
-
-
-
-
-
-
-
-
-
-
+Version controlled software has played a critical role in the evolution of open-source software, for instance the entire Linux OS is accessible online, and anyone could potentially contribute to it. In this manner, you can start your own software, open its source code, and find contributors genuinely interested to contribute and maintain it alive. So, jump on the train, this is where tools of tomorrow are being built!
