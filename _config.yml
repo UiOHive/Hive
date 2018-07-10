@@ -20,7 +20,7 @@ language: en
 
 titleBackground: "https://s3-us-west-2.amazonaws.com/webmaker-kits/learning%402x.jpg"
 headlineSmall: "Welcome To UiO Hive Group!"
-headlineMain: "Let's Work Together"
+headlineMain: "Let's Make Science Tools"
 avatar: "img/logos/logoHive.png"
 
 # Setup Google Calendar
@@ -39,8 +39,8 @@ calendar_ical_url: "https://www.google.com/calendar/ical/USER@gmail.com/public/b
 #========================================
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 4451ff
-  secondary: 0335fe
+  primary: f40100
+  secondary: d20100
   secondary-dark: 333
 
 #  primary: fed136
