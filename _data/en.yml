@@ -43,3 +43,23 @@ interests: Interests
 codeOfConduct: Study Group Code of Conduct
 
 lessons: Lesson content
+
+whatYouCanDo: What You Can Do
+contributionsSubheading: 'And you like too!'
+contributions:
+  - title: contribution 1
+    description: 'Write your text for contribution-1 here'
+  - title: contribution 2
+    description: 'Write your text for contribution-2 here'
+
+techWeLike: Tech We Like
+
+techSubheading: 'And you like too!'
+technologies:
+  - title: Tech1
+    description: 'Write your text for tech1 here'
+    icon: "img/logos/designmodo.jpg"
+  - title: Tech2
+    description: 'Write your text for tech2 here'
+    icon: "img/logos/themeforest.jpg"
+
