@@ -1,3 +1,19 @@
+---
+layout: page
+title: Why a Github account?
+text: Discuss why you need to apply for a Github account
+link: 
+visible: true
+tags:
+  # languages
+  - git
+  # levels
+  - beginner
+---
+
+<!-- change visible to true if you want it on the site -->
+<!-- remove any tags listed above that are not relevant -->
+
 #Why a Github account?
 
  - **Authors**: Simon Filhol
