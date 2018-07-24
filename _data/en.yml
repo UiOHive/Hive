@@ -2,19 +2,29 @@
 whatWeDo: What We Do
 events: Events
 contact: Contact
+lessons: Lesson content
+
 tellMeMore: Tell Me More
 
 activitiesSubheading: 'And you can, too!'
 activities:
-  - title: Skill Sharing
-    description: 'Share your favorite coding skills and tools with your friends and colleagues in friendly, no-pressure work-alongs.</p>'
-    icon: fa-comment
-  - title: Co-Working
-    description: 'Get together to work on your coding projects, help each other out and share your work.'
-    icon: fa-laptop
-  - title: Community Building
-    description: 'Meet new people in your field, organization or community - and find out what we can do when we work together.'
-    icon: fa-group
+ - title: Explore
+   description: 'Explore the environment in new ways with leading technology.</p>'
+   icon: fa-comment
+ - title: Make
+   description: 'Build your own tool to explore nature.</p>'
+   icon: fa-comment
+ - title: Design
+   description: 'Design new tools for new approaches to natural sciences.</p>'
+   icon: fa-comment
+ - title: Push limits
+   description: 'Deploy new technology in extreme environmental conditions.</p>'
+   icon: fa-comment
+
+
+
+
+
 
 events: Events
 eventsSubheading: Our upcoming and recent events
@@ -36,21 +46,12 @@ sayHi: Come Say Hi
 contactSubheading: 'We use GitHub to get coding help, talk about events and share files. Join us there!'
 contact: Talk To Us
 
-teamHeadline: Who We Are
-teamSubheading: "We're scientists, students and researchers who want to work with you!"
-interests: Interests
 
-codeOfConduct: Study Group Code of Conduct
 
-lessons: Lesson content
 
-whatYouCanDo: What You Can Do
-contributionsSubheading: 'And you like too!'
-contributions:
-  - title: contribution 1
-    description: 'Write your text for contribution-1 here'
-  - title: contribution 2
-    description: 'Write your text for contribution-2 here'
+
+
+
 
 techWeLike: Tech We Like
 
@@ -63,3 +64,24 @@ technologies:
     description: 'Write your text for tech2 here'
     icon: "img/logos/themeforest.jpg"
 
+
+
+
+whatYouCanDo: What You Can Do
+contributionsSubheading: 'And you like too!'
+contributions:
+  - title: contribution 1
+    description: 'Write your text for contribution-1 here'
+  - title: contribution 2
+    description: 'Write your text for contribution-2 here'
+
+
+
+
+
+
+teamHeadline: Who We Are
+teamSubheading: "We're scientists, students and researchers who want to work with you!"
+interests: Interests
+
+codeOfConduct: Study Group Code of Conduct
