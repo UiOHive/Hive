@@ -4,26 +4,109 @@ events: Events
 contact: Contact
 lessons: Lesson content
 
+# add a menu 'Live Data' leading to the Finse dashboard
+# Can we remain Lesson Content to Tutorials ?
+
 tellMeMore: Tell Me More
 
-activitiesSubheading: 'And you can, too!'
+activitiesSubheading: |
+  At UiO Hive, we are a group of scientists and engineers focused at designing and building custom tools to explore nature in new ways. With the advent of Open-Source software and hardware, 
+  it becomes easier than ever to build custom made tools. Many technologies such as IoT, databases, and vizualisation are yet to be combined and widely brought to natural sciences,
+  with all challenges invovled. While each of these technologies have inherent complexities, their deployement in nordic environments raise a number of challenges for engineers and scientists. 
+  UiO Hive is then here to connect people across disciplines, learn from each other, and push the limits of our tools to explore our environment.</p>
+
+  Through UiO Hive you will find a community of people around Oslo that have a common motivation to bring technology outside, with the intent to learn more about natural sciences. 
+  We will offer training for learning these new tools through workshops, and projects integrated to on-going research in hydrology, glaciology, ecology, wireless communication,
+  micro-electronic, and data vizualisation. You will be offered support to build new tools and approaches at sensing the environment.</p>
+
+
+  Much of our newest progress in development is being tested and used in Finse, a high alpine plateau between Oslo and Bergen, to sense river discharge, snow accumulation, and precipitation. You can have a look 
+  to current conditions of our network at Finse here[link to dashboard]. 
+  The harsh winter climate, rainy summers and complex topography makes Finse an ideal place to push our new systems to their limits in terms of power management, wireless communication and sensor design. 
+  UiO and UiB Research groups LATICE [link], ESCYMO [link] and EVOGLACE [link] also doing research in Finse provide scientific expertise and context to new technological develpment.
+  </p>
+
+
+
 activities:
  - title: Explore
    description: 'Explore the environment in new ways with leading technology.</p>'
-   icon: fa-comment
- - title: Make
-   description: 'Build your own tool to explore nature.</p>'
-   icon: fa-comment
+   icon: fa-microscope
  - title: Design
    description: 'Design new tools for new approaches to natural sciences.</p>'
-   icon: fa-comment
+   icon: fa-microchip
+ - title: Make
+   description: 'Build your own tool to explore nature.</p>'
+   icon: fa-toolbox
  - title: Push limits
    description: 'Deploy new technology in extreme environmental conditions.</p>'
-   icon: fa-comment
+   icon: fa-snowflake
 
 
 
+# TODO:
+# center the Push limits
 
+# Add a section Science Topics
+scienceTopicWelike: Science Topics We're Invovled With
+scences: 
+  - title: Hydrology
+    description: The cycle of water 
+  - title: Glaciology
+    description: The dynamic of glaciers and snow
+  - title: Climate science
+    description: The exchange of energy, water, and carbon around the globe
+  - title: Ecology 
+    description: Biosphere and geosphere interactions
+
+
+techWeLike: Tech We Like
+technologies:
+  - title: Open-Source Software
+    description: 'Free, portable and sharable code like Python, C++'
+    icon: "img/logos/open_soft.jpg"
+  - title: Open-Source Hardware
+    description: 'Arduino, RaspberryPi and other open hardware platforms'
+    icon: "img/logos/open_hardware.jpg"
+  - title: Wireless Sensor Network 
+    description: 'Connect devices together with IoT solutions'
+    icon: "img/logos/themeforest.jpg"
+  - title: Data Vizualisation 
+    description: 'Interprete and share information online'
+    icon: "img/logos/themeforest.jpg"
+  - title: Databases 
+    description: 'Store and access data'
+    icon: "img/logos/themeforest.jpg"
+  - title: Version Control 
+    description: 'Collaborate and keep track of your code with Git'
+    icon: "img/logos/themeforest.jpg"
+  - title: Micro-electronic
+    description: 'Design custom sensors and devices'
+    icon: "img/logos/themeforest.jpg"
+
+
+whatYouCanDo: What You Can Do
+contributionsSubheading: 'As a student:'
+contributions:
+  - title: Learn
+    description: 'Participate to Workshops'
+  - title: Test your ideas
+    description: 'Build and bring your project to the field '
+  
+contributionsSubheading: 'As an engineer or researcher:'
+contributions:
+  - title: Inspire
+    description: 'Raise interest in combining disciplines to challenge current scientific and engineering problematics'
+  - title: Bring your knowledge
+    description: 'Contribute with your expertise to students' project and the development of new sensors and devices'
+
+contributionsSubheading: 'Overall:'
+contributions:
+  - title: Connect
+    description: 'Connect with a community of makers through Workshops, Maker space, Github and Slack'
+
+# add a link to or add a subcriscription form. To sign up to the workshop.
+# add a link to a Slack Channel UiOHive! (create the channel)
 
 
 events: Events
@@ -33,55 +116,22 @@ suggestEvent: Suggest an Event
 leadership: How to lead a Study Group session
 pastEvents: See Our Past Events
 
-notification: Want to be notified of our upcoming events?
-watching: 'Head over to <a href="https://github.com/mozillascience/studyGroup">GitHub</a> and watch our repository, like this:'
-watchingCaption: 'Look in the top right-hand corner of <a href="%GITHUB_REPO_URL%">our repo</a>, and click "Watching." <br>You can undo this at any time in the same place.'
-
-calendar: Subscribe to our events calendar!
-calendarSubheading: 'We also invite you to follow <a href="%CALENDAR_EMBED_URL%" target="_blank">our calendar</a>, where events will be posted.'
-googleCalendar: 'If you use Google calendar, you can add our calendar by pressing the "Google Calendar" button at the bottom-right of <a href="%CALENDAR_EMBED_URL%" target="_blank">this page</a>.'
-iCal: 'If you use another calendar app, you can copy and paste <a href="%CALENDAR_ICAL_URL%">this address</a> into any calendar product that supports the iCal format.'
-
-sayHi: Come Say Hi
-contactSubheading: 'We use GitHub to get coding help, talk about events and share files. Join us there!'
-contact: Talk To Us
-
-
-
-
-
-
-
-
-techWeLike: Tech We Like
-
-techSubheading: 'And you like too!'
-technologies:
-  - title: Tech1
-    description: 'Write your text for tech1 here'
-    icon: "img/logos/designmodo.jpg"
-  - title: Tech2
-    description: 'Write your text for tech2 here'
-    icon: "img/logos/themeforest.jpg"
-
-
-
-
-whatYouCanDo: What You Can Do
-contributionsSubheading: 'And you like too!'
-contributions:
-  - title: contribution 1
-    description: 'Write your text for contribution-1 here'
-  - title: contribution 2
-    description: 'Write your text for contribution-2 here'
-
-
-
-
+# TODO:
+# Get rid of the github animation. This is more of a distraction than really helpful on this first page.
 
 
 teamHeadline: Who We Are
-teamSubheading: "We're scientists, students and researchers who want to work with you!"
+teamSubheading: "We're scientists, students, researchers and engineers looking to"
 interests: Interests
 
 codeOfConduct: Study Group Code of Conduct
+
+
+
+#Add a section about Supporting groups to Hive:
+#  1- Faculty Mathematics and Natural Sciences
+#  2- LATICE project
+#  3- ESCYMO project
+#  - SCIOS (TBA)
+#  4- EVOGLACE project
+#  5- 
