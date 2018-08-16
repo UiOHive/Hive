@@ -2,7 +2,7 @@
 whatWeDo: What We Do
 events: Events
 contact: Contact
-lessons: Lesson content
+lessons: Tutorials
 
 # add a menu 'Live Data' leading to the Finse dashboard
 # Can we remain Lesson Content to Tutorials ?
@@ -86,22 +86,22 @@ technologies:
 
 
 whatYouCanDo: What You Can Do
-contributionsSubheading: 'As a student:'
-contributions:
+whatYouCanDoStudents: 'As a student:'
+studentContributions:
   - title: Learn
     description: 'Participate to Workshops'
   - title: Test your ideas
     description: 'Build and bring your project to the field '
   
-contributionsSubheading: 'As an engineer or researcher:'
-contributions:
+whatYouCanDoStaff: 'As an engineer or researcher:'
+staffContributions:
   - title: Inspire
     description: 'Raise interest in combining disciplines to challenge current scientific and engineering problematics'
 #  - title: Bring your knowledge
 #    description: 'Contribute with your expertise to students' project and the development of new sensors and devices'
 
-contributionsSubheading: 'Overall:'
-contributions:
+whatYouCanDoAll: 'All:'
+allContributions:
   - title: Connect
     description: 'Connect with a community of makers through Workshops, Maker space, Github and Slack'
 
