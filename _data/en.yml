@@ -9,25 +9,20 @@ lessons: Lesson content
 
 tellMeMore: Tell Me More
 
-activitiesSubheading: |
-  At UiO Hive, we are a group of scientists and engineers focused at designing and building custom tools to explore nature in new ways. With the advent of Open-Source software and hardware, 
+activitiesInfo: 
+  - description: 'At UiO Hive, we are a group of scientists and engineers focused at designing and building custom tools to explore nature in new ways. With the advent of Open-Source software and hardware, 
   it becomes easier than ever to build custom made tools. Many technologies such as IoT, databases, and vizualisation are yet to be combined and widely brought to natural sciences,
   with all challenges invovled. While each of these technologies have inherent complexities, their deployement in nordic environments raise a number of challenges for engineers and scientists. 
-  UiO Hive is then here to connect people across disciplines, learn from each other, and push the limits of our tools to explore our environment.</p>
-
-  Through UiO Hive you will find a community of people around Oslo that have a common motivation to bring technology outside, with the intent to learn more about natural sciences. 
+  UiO Hive is then here to connect people across disciplines, learn from each other, and push the limits of our tools to explore our environment.'
+  - description: 'Through UiO Hive you will find a community of people around Oslo that have a common motivation to bring technology outside, with the intent to learn more about natural sciences. 
   We will offer training for learning these new tools through workshops, and projects integrated to on-going research in hydrology, glaciology, ecology, wireless communication,
-  micro-electronic, and data vizualisation. You will be offered support to build new tools and approaches at sensing the environment.</p>
+  micro-electronic, and data vizualisation. You will be offered support to build new tools and approaches at sensing the environment.'
 
-
-  Much of our newest progress in development is being tested and used in Finse, a high alpine plateau between Oslo and Bergen, to sense river discharge, snow accumulation, and precipitation. You can have a look 
+  - description:  'Much of our newest progress in development is being tested and used in Finse, a high alpine plateau between Oslo and Bergen, to sense river discharge, snow accumulation, and precipitation. You can have a look 
   to current conditions of our network at Finse here[link to dashboard]. 
   The harsh winter climate, rainy summers and complex topography makes Finse an ideal place to push our new systems to their limits in terms of power management, wireless communication and sensor design. 
-  UiO and UiB Research groups LATICE [link], ESCYMO [link] and EVOGLACE [link] also doing research in Finse provide scientific expertise and context to new technological develpment.
-  </p>
-
-
-
+  UiO and UiB Research groups LATICE [link], ESCYMO [link] and EVOGLACE [link] also doing research in Finse provide scientific expertise and context to new technological develpment.'
+  
 activities:
  - title: Explore
    description: 'Explore the environment in new ways with leading technology.</p>'
@@ -47,20 +42,25 @@ activities:
 # TODO:
 # center the Push limits
 
+
 # Add a section Science Topics
-scienceTopicWelike: Science Topics We're Invovled With
-scences: 
+scienceTopicWelike: Science 
+sciences: 
   - title: Hydrology
     description: The cycle of water 
+    icon: "img/logos/themeforest.jpg"
   - title: Glaciology
     description: The dynamic of glaciers and snow
+    icon: "img/logos/themeforest.jpg"
   - title: Climate science
     description: The exchange of energy, water, and carbon around the globe
+    icon: "img/logos/themeforest.jpg"
   - title: Ecology 
     description: Biosphere and geosphere interactions
+    icon: "img/logos/themeforest.jpg"
 
 
-techWeLike: Tech We Like
+techWeLike: Tech
 technologies:
   - title: Open-Source Software
     description: 'Free, portable and sharable code like Python, C++'
@@ -97,8 +97,8 @@ contributionsSubheading: 'As an engineer or researcher:'
 contributions:
   - title: Inspire
     description: 'Raise interest in combining disciplines to challenge current scientific and engineering problematics'
-  - title: Bring your knowledge
-    description: 'Contribute with your expertise to students' project and the development of new sensors and devices'
+#  - title: Bring your knowledge
+#    description: 'Contribute with your expertise to students' project and the development of new sensors and devices'
 
 contributionsSubheading: 'Overall:'
 contributions:
