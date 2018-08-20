@@ -18,7 +18,7 @@ language: en
 # Optional Configuration
 # None of these things need to be changed - but feel free!
 
-titleBackground: "https://s3-us-west-2.amazonaws.com/webmaker-kits/learning%402x.jpg"
+titleBackground: "img/DSC_1186.png"
 headlineSmall: "Welcome To UiO Hive Group!"
 headlineMain: "Let's Make Science Tools"
 avatar: "img/logos/logoHive.png"
