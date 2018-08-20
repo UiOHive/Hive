@@ -14,15 +14,15 @@ activitiesInfo:
   it becomes easier than ever to build custom made tools. Many technologies such as IoT, databases, and vizualisation are yet to be combined and widely brought to natural sciences,
   with all challenges invovled. While each of these technologies have inherent complexities, their deployement in nordic environments raise a number of challenges for engineers and scientists. 
   UiO Hive is then here to connect people across disciplines, learn from each other, and push the limits of our tools to explore our environment.'
-  - description: 'Through UiO Hive you will find a community of people around Oslo that have a common motivation to bring technology outside, with the intent to learn more about natural sciences. 
+  - description: 'Through UiO Hive you will find a community of people around Oslo that have a common motivation to bring technology outside, with the intent to learn more about natural ecosystems. 
   We will offer training for learning these new tools through workshops, and projects integrated to on-going research in hydrology, glaciology, ecology, wireless communication,
-  micro-electronic, and data vizualisation. You will be offered support to build new tools and approaches at sensing the environment.'
+  micro-electronic, and data vizualisation. You will be offered support to build new tools and approaches for sensing the environment.'
 
-  - description:  'Much of our newest progress in development is being tested and used in Finse, a high alpine plateau between Oslo and Bergen, to sense river discharge, snow accumulation, and precipitation. You can have a look 
+  - description:  'Much of our newest progress in development is being tested and used at Finse, a high alpine plateau between Oslo and Bergen, to sense river discharge, snow accumulation, and precipitation. You can have a look 
   to current conditions of our network at Finse here[link to dashboard]. 
   The harsh winter climate, rainy summers and complex topography makes Finse an ideal place to push our new systems to their limits in terms of power management, wireless communication and sensor design. 
-  UiO and UiB Research groups 
-<a href="https://www.mn.uio.no/geo/english/research/groups/latice/">LATICE</a>, and <a href="https://www.mn.uio.no/geo/english/research/projects/escymo/index.html">ESCYMO</a> also doing research in Finse provide scientific expertise and context to new technological develpment.'
+  UiO Research groups 
+<a href="https://www.mn.uio.no/geo/english/research/groups/latice/">LATICE</a>, and <a href="https://www.mn.uio.no/geo/english/research/projects/escymo/index.html">ESCYMO</a> also doing research in Finse provide scientific expertise and context to new technological development.'
   
 activities:
  - title: Explore

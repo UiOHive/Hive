@@ -28,6 +28,25 @@
        inkscape:vp_z="744.09449 : 526.1811 : 1"
        inkscape:persp3d-origin="372.04724 : 350.7874 : 1"
        id="perspective5572" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4315">
+      <path
+         sodipodi:type="star"
+         style="opacity:1;fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:3.43318748;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path4317"
+         sodipodi:sides="8"
+         sodipodi:cx="347.59479"
+         sodipodi:cy="507.16785"
+         sodipodi:r1="581.89044"
+         sodipodi:r2="162.23279"
+         sodipodi:arg1="1.5707963"
+         sodipodi:arg2="1.9634954"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="M 347.5948,1089.0583 285.51099,657.0514 -63.863879,918.62654 197.71124,569.25165 -234.29565,507.16786 197.71123,445.08405 -63.863901,95.70918 285.51099,357.28429 347.59477,-74.722595 409.67859,357.28429 759.05345,95.709158 497.47834,445.08405 929.48523,507.16783 497.47834,569.25165 759.05348,918.62651 409.67859,657.0514 Z" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -36,9 +55,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.85557158"
-     inkscape:cx="278.44439"
-     inkscape:cy="322.00903"
+     inkscape:zoom="0.52285909"
+     inkscape:cx="420.83871"
+     inkscape:cy="354.45669"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -56,7 +75,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -587,5 +606,24 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200" />
+    <path
+       transform="matrix(0.33949773,0,0,0.33949773,510.26873,200.89447)"
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#3e9baf;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.97217643;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       mask="none"
+       clip-path="url(#clipPath4315)"
+       d="M 347.5957,207.4707 A 299.69712,299.69712 0 0 0 47.898438,507.16797 299.69712,299.69712 0 0 0 240.37695,786.95508 l 78.73438,-202.19531 a 82.758186,82.758186 0 0 1 -54.27539,-77.5918 82.758186,82.758186 0 0 1 82.75976,-82.75781 82.758186,82.758186 0 0 1 82.75586,82.75781 82.758186,82.758186 0 0 1 -54.25586,77.62891 l 78.6211,201.9082 A 299.69712,299.69712 0 0 0 647.29102,507.16797 299.69712,299.69712 0 0 0 347.5957,207.4707 Z"
+       id="path3702"
+       inkscape:export-filename="/home/arcticsnow/github/Hive/img/logos/openhardware_logo.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#3e9baf;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.97217643;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 628.27664,296.97167 a 76.105284,76.105284 0 0 0 -76.10578,76.10518 76.105284,76.105284 0 0 0 49.00965,71.09295 l 17.16523,-44.08232 a 28.814315,28.814315 0 0 1 -18.88392,-27.01063 28.814315,28.814315 0 0 1 28.81482,-28.81421 28.814315,28.814315 0 0 1 28.8142,28.81421 28.814315,28.814315 0 0 1 -18.87792,27.02389 l 17.13671,44.00938 a 76.105284,76.105284 0 0 0 49.03226,-71.03327 76.105284,76.105284 0 0 0 -76.10525,-76.10518 z"
+       id="path3694"
+       inkscape:export-filename="/home/arcticsnow/github/Hive/img/logos/openhardware_logo.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
   </g>
 </svg>
