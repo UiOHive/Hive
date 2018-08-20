@@ -11,7 +11,12 @@
                 {% for activity in site.data[site.language].sciences %}
                     <div class="col-md-4">
                         <span class="fa-stack fa-4x">
-              <img class="site-avatar" src="{{ site.github.url | replace:'http:','https:' }}/{{ activity.icon }}" />
+                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                            {% if activity.title== 'Ecology' %}
+                              <i class="fab {{activity.icon}} fa-stack-1x fa-inverse"></i>
+			    {% else %}
+                              <i class="fa {{activity.icon}} fa-stack-1x fa-inverse"></i>
+                            {% endif %}
                         </span>
                         <h4 class="service-heading">{{activity.title}}</h4>
                         <p class="text-muted">{{activity.description}}</p>
