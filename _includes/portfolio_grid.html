@@ -33,6 +33,11 @@
                         <a class='eventTitle' href="{{ post.link }}">
                           <h3>{{ post.title }}</h3>
                         </a>
+                <div class="row">
+                      <div class="col-lg-12 text-center">
+                          <a href="{{ post.register }}" class="btn btn-xl eventRegister">{{site.data[site.language].registerEvent}}</a>
+                      </div>
+                </div>
                         <div class="eventDesc"> {{ post.content }} </div> 
                       </div> 
                     </div>         

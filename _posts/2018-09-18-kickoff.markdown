@@ -3,6 +3,7 @@ title: UiO Hive Kick Off Workshop
 text: Learn about the UiO Hive initiative and how you can contribute
 location: CEED Conference Room, Sem Sælands vei 2A (ZEB-Building), N-0371 Oslo, Norway 
 link: https://github.com/UiOHive/Hive/issues/1
+register: https://docs.google.com/forms/d/e/1FAIpQLScT9qn-J43uDKjzckw4-Q9Jj5nlpeRwSo5rhriHa-EuSO9ttA/viewform?embedded=true
 date: 2018-09-18
 startTime: '09:30'
 endTime: '16:00'
