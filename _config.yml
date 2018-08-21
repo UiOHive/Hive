@@ -15,6 +15,10 @@ language: en
 # To make your first event, check out the instructions at https://github.com/mozillascience/studyGroup#how-to-launch-a-new-event
 # Having trouble? Open a new issue at https://github.com/mozillascience/studyGroup/issues and we'll help you out ASAP!
 
+# search engine optimization for github pages
+plugins:
+  - jekyll-seo-tag
+
 # Optional Configuration
 # None of these things need to be changed - but feel free!
 
