@@ -1,0 +1,38 @@
+---
+title: Learn Deep-Learning with Python
+text: How to program a neural network with hidden layers (deep-learning) and the necessary theory behind.
+location:  Georg Sverdrups hus, room Linken
+link: https://www.ub.uio.no/english/courses-events/events/all-libraries/2019/research-bazaar/190109_DeepLearning.html
+register: https://nettskjema.uio.no/answer/107833.html
+date: 2019-01-08
+startTime: '09:00'
+endTime: '16:00'
+
+---
+
+**Subjects covered**
+
+How to apply convolutional neural networks in image-classification problems on the example of geospatial images.
+
+- understand neural networks
+- some statistical concepts to analyse data set
+- preprocess, clean data set
+- select training data set and test data set, validate the model
+- how to select features for the neural network
+- understand output
+
+**Requirements**
+
+Laptop with Anaconda-navigator installed, python3; knowledge of python in Carpentry course level.
+
+**Target audience**
+
+Master students, PhD students and postdocs.
+
+**Instructors**
+
+Ana Costa Conrado, Anne Fouilloux and Jean Iaquinta (Department of Geosciences, UiO)
+
+**Organizer**
+
+Research Bazaar @ UiO
