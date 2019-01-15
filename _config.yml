@@ -16,7 +16,7 @@ language: en
 # Having trouble? Open a new issue at https://github.com/mozillascience/studyGroup/issues and we'll help you out ASAP!
 
 # search engine optimization for github pages
-plugins:
+plugins_dir:
   - jekyll-seo-tag
 
 # Optional Configuration

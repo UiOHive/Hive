@@ -8,7 +8,6 @@ lessons: Tutorials
 # Can we remain Lesson Content to Tutorials ?
 
 tellMeMore: Tell Me More
-
 activitiesInfo: 
   - description: 'At UiO Hive, we are a group of scientists and engineers focused at designing and building custom tools to explore nature in new ways. With the advent of Open-Source software and hardware, 
   it becomes easier than ever to build custom made tools. Many technologies such as IoT, databases, and vizualisation are yet to be combined and widely brought to natural sciences,
@@ -24,6 +23,34 @@ activitiesInfo:
   UiO Research groups 
 <a href="https://www.mn.uio.no/geo/english/research/groups/latice/">LATICE</a>, and <a href="https://www.mn.uio.no/geo/english/research/projects/escymo/index.html">ESCYMO</a> are also doing research in Finse provide scientific expertise and context to new technological development.'
   
+
+
+project_idea: Project Ideas
+projectssSubheading: Inspired by one of these project? Or propose your idea!
+proj:
+  - title: GlacierNet
+    description: 'Develop a network protocol for devices distributed in the accumulation zone of a glacier that can measure temperature, water pressure, and - most importantly - that can triangulate their position via a wireless network. Use the network transmission strength to derive ice properties (using a suitable frequency). This project needs to include a good clock synchronisation, or make use of creative solutions. The same idea could also be used in rivers on shorter timescales if any communication solution (e.g. sonar) can be effectively used in liquid water. The project would consist of two parts, one is the design of the WSN, and the second is the field testing and assessment of the scientific merit of the idea.
+'
+  - title: Triggered Network
+    description: 'In many instances, measurements at high frequency can inform in great detail about physical processes, but WSNs are not designed to handle large amount of data. This project therefore aims at the design of a WSN that could be triggered at will to record high frequency (10-1000Hz) data in short burst, and then upload the data via the network. An example case could be the recordings of wind measurements, or the drifting of snow across multiple weather stations aligned on a transect. With such system, one could study atmospheric processes linked to the boundary layer, or processes related to snow transport across the landscape.
+'
+  - title: Network as a sensor 
+    description: 'Given the frequency at which WSNs operate, this project will explore the possible use of signal attenuation in between a network of stations to derive air water content. This could be accomplished with a single frequency signal or a variety of radio frequencies. The goal here is to use the wireless sensor network to provide spatial knowledge of air moisture content across the whole network.'
+  - title: Drone data collection 
+    description: 'Use a drone to collect data from remote stations. Design a logging station that would be installed in remote location, where the use of a drone could simplify and improve data collection safety. A potential use could be for temperature loggers located in cliff for permafrost research, or hydrological monitoring in the case a logger is place somewhere unaccessible.
+'
+  - title: Network Topology testing 
+    description: 'Using WSN technology outdoor in remote areas is challenging. This project would test a variety of network topologies to find which ones are best suited for geophysics application. Constraints include remote locations, large distances, harsh environment, and low power availability.  This project could be linked to the “Network as a Sensor” project too.
+'
+  - title: Measurement protocols 
+    description: 'Given the constraints of a WSN (battery, memory, processing power, transmission bandwidth, etc.), develop measurement protocols (sampling rate, internal averaging, etc.) optimising the trade-offs between the constraints.
+'
+  - title: A connected tree
+    description: 'develop a network of connected sensors distributed within the canopy of a tree with minimal footprint to record tree motion, temperature, light intensity, etc. '
+  - title: Arduino based IoT logger
+    description: ' develop a data logger based on arduino technology. The logger will integrate a suites of accessories (GPS, SD card, power harvester, RTC, …). The design needs to meet low power usage, and flexibility for a variety of IoT solutions. A collaborative project with the team doing active firmware and hardware development.'
+
+
 activities:
  - title: Explore
    description: 'Explore the environment in new ways with leading technology.</p>'
@@ -37,9 +64,6 @@ activities:
  - title: Push limits
    description: 'Deploy new technology in extreme environmental conditions.</p>'
    icon: fa-snowflake
-
-
-
 
 
 # TODO:
@@ -86,6 +110,8 @@ technologies:
   - title: Micro-electronic
     description: 'Design custom sensors and devices'
     icon: "img/logos/microelectro_logo.png"
+
+
 
 
 whatYouCanDo: What You Can Do

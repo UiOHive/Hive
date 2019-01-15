@@ -23,7 +23,7 @@
     - Hydrologic and Atmospheric Research in Arctic and Cryospheric Systems
 
 - name: Ana Costa Conrado
-  affiliation:
+  affiliation: University of Oslo
   github: anacost
   interests:
     - Python
@@ -32,7 +32,7 @@
     - Machine & Deep Learning
 
 - name: John Hulth
-  affiliation:
+  affiliation: University of Oslo
   github: johnhulth
   interests:
     - Sensor and Power board
@@ -43,5 +43,6 @@
   affiliation:
   github: jdavid
   interests:
-    - Full-stack enginer
+    - Full-stack Systems
     - Firmware development
+    - Python
