@@ -37,7 +37,7 @@
   interests:
     - Sensor and Power board
     - Micro-electronic
-    - Sensor deployment
+    - Sensor development
 
 - name: J. David Ibáñez
   affiliation:
@@ -52,4 +52,12 @@
   github: orjanso
   interests:
     - Snow physics
+    - Sensor development
+
+- name: Norbert Pirk
+  affiliation: University of Oslo
+  github: noberp
+  interests:
+    - Land surface processes
+    - Boundary layer physics
     - Sensor development
