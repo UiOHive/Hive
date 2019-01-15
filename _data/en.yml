@@ -54,13 +54,13 @@ new:
     description: 'Measuring temperature profile in snow, water, and ground. Using digital thermistors, we built chains of sensors that are able to provide temperature at predefined time interval. One is installed in Finse to measure snow temperature gradient and study its impact on snow metamorphism, and another one is keeping track of permafrost temperatures in Jotunheimen mountains.'
     icon: "img/news/Lagopus_B.png"
   - title: Sensing from a drone
-    description: 'With today's advances in small and low power sensor, it becomes either to build compact and low power weather stations. In this project, we are testing a suite of new sensors providing detailed information on atmospheric and radiative conditions, and the evolution of the snow pack. This suite of sensors is also cost effective.'
+    description: "With today's advances in small and low power sensor, it becomes either to build compact and low power weather stations. In this project, we are testing a suite of new sensors providing detailed information on atmospheric and radiative conditions, and the evolution of the snow pack. This suite of sensors is also cost effective."
     icon: "img/news/Lagopus_B.png"
   - title: 4D Time-lapse
     description: 'Taking pictures froma variety of viewpoints, it is possible to reconstruct 3D models using photogrammetric softwares like the open-source project <a href="https://micmac.ensg.eu/index.php/Accueil">Micmac</a>. We built a custom-made camera system and Python application <a href="https://github.com/ArcticSnow/photo4D">Photo4D</a> to monitor snow depth or permafrost ground deformation in Slovenian caves.'
     icon: "img/news/CaveGround.PNG"
   - title: Compact weather station
-    description: 'With today's advances in small and low power sensor, it becomes either to build compact and low power weather stations. In this project, we are testing a suite of new sensors providing detailed information on atmospheric and radiative conditions, and the evolution of the snow pack. This suite of sensors is also cost effective.'
+    description: "With today's advances in small and low power sensor, it becomes either to build compact and low power weather stations. In this project, we are testing a suite of new sensors providing detailed information on atmospheric and radiative conditions, and the evolution of the snow pack. This suite of sensors is also cost effective."
     icon: "img/news/Lagopus_B.png"
 #============================================================================
 
