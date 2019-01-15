@@ -52,7 +52,7 @@ newsSubheading: On-going projects
 new:
   - title: Temperature profile
     description: 'Measuring temperature profile in snow, water, and ground. Using digital thermistors, we built chains of sensors that are able to provide temperature at predefined time interval. One is installed in Finse to measure snow temperature gradient and study its impact on snow metamorphism, and another one is keeping track of permafrost temperatures in Jotunheimen mountains.'
-    icon: "/home/arcticsnow/github/Hive/img/news/SD_ST_RAIN.png"
+    icon: "img/news/SD_ST_RAIN.png"
   - title: Sensing from a drone
     description: "Small and low power sensor can be mounted on a small consummer grade drone to collect data on the boundary layer such as Methane, air temperature. Here you see the example from such system highlighting a typical atmospheric temperature inversion of the air column."
     icon: "img/news/Lagopus_B.png"
