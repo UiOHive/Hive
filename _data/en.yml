@@ -29,9 +29,9 @@ project_idea: Project Ideas
 projectssSubheading: Inspired by one of these project? Or propose your idea!
 proj:
   - title: GlacierNet
-    description: 'Develop a network protocol for devices distributed in the accumulation zone of a glacier that can measure temperature, water pressure, and - most importantly - that can triangulate their position via a wireless network. Use the network transmission strength to derive ice properties (using a suitable frequency). This project needs to include a good clock synchronisation, or make use of creative solutions. The same idea could also be used in rivers on shorter timescales if any communication solution (e.g. sonar) can be effectively used in liquid water. The project would consist of two parts, one is the design of the WSN, and the second is the field testing and assessment of the scientific merit of the idea.'
+    description: 'Develop a network protocol for devices distributed in the accumulation zone of a glacier that can measure temperature, water pressure, and - most importantly - that can triangulate their position via a wireless network. Use the network transmission strength to derive ice properties (using a suitable frequency). The similar system could also be applied to rivers on shorter timescales.'
   - title: Triggered Network
-    description: 'In many instances, measurements at high frequency can inform in great detail about physical processes, but WSNs are not designed to handle large amount of data. This project therefore aims at the design of a WSN that could be triggered at will to record high frequency (10-1000Hz) data in short burst, and then upload the data via the network. An example case could be the recordings of wind measurements, or the drifting of snow across multiple weather stations aligned on a transect. With such system, one could study atmospheric processes linked to the boundary layer, or processes related to snow transport across the landscape.'
+    description: 'In many instances, measurements at high frequency can inform in great detail about physical processes, but WSNs are not designed to handle large amount of data. This project therefore aims at the design of a WSN that could be triggered at will to record high frequency (10-1000Hz) data in short burst, and then upload the data via the network. An example case could be the recordings of wind measurements, or the drifting of snow across multiple weather stations aligned on a transect.'
   - title: Network as a sensor 
     description: 'Given the frequency at which WSNs operate, this project will explore the possible use of signal attenuation in between a network of stations to derive air water content. This could be accomplished with a single frequency signal or a variety of radio frequencies. The goal here is to use the wireless sensor network to provide spatial knowledge of air moisture content across the whole network.'
   - title: Drone data collection 
@@ -52,7 +52,7 @@ newsSubheading: On-going projects
 new:
   - title: Temperature profile
     description: 'Measuring temperature profile in snow, water, and ground. Using digital thermistors, we built chains of sensors that are able to provide temperature at predefined time interval. One is installed in Finse to measure snow temperature gradient and study its impact on snow metamorphism, and another one is keeping track of permafrost temperatures in Jotunheimen mountains.'
-    icon: "img/news/SD_ST_RAIN.png"
+    icon: "/home/arcticsnow/github/Hive/img/news/SD_ST_RAIN.png"
   - title: Sensing from a drone
     description: "Small and low power sensor can be mounted on a small consummer grade drone to collect data on the boundary layer such as Methane, air temperature. Here you see the example from such system highlighting a typical atmospheric temperature inversion of the air column."
     icon: "img/news/Lagopus_B.png"
