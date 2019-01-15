@@ -6,7 +6,7 @@ lessons: Tutorials
 
 # add a menu 'Live Data' leading to the Finse dashboard
 # Can we remain Lesson Content to Tutorials ?
-
+#============================================================================
 tellMeMore: Tell Me More
 activitiesInfo: 
   - description: 'At UiO Hive, we are a group of scientists and engineers focused at designing and building custom tools to explore nature in new ways. With the advent of Open-Source software and hardware, 
@@ -23,7 +23,7 @@ activitiesInfo:
   UiO Research groups 
 <a href="https://www.mn.uio.no/geo/english/research/groups/latice/">LATICE</a>, and <a href="https://www.mn.uio.no/geo/english/research/projects/escymo/index.html">ESCYMO</a> are also doing research in Finse provide scientific expertise and context to new technological development.'
   
-
+#============================================================================
 
 project_idea: Project Ideas
 projectssSubheading: Inspired by one of these project? Or propose your idea!
@@ -50,6 +50,24 @@ proj:
   - title: Arduino based IoT logger
     description: ' develop a data logger based on arduino technology. The logger will integrate a suites of accessories (GPS, SD card, power harvester, RTC, …). The design needs to meet low power usage, and flexibility for a variety of IoT solutions. A collaborative project with the team doing active firmware and hardware development.'
 
+#============================================================================
+
+news: News
+newsSubheading: On-going projects
+  - title: Temperature profile
+    description: Measuring temperature profile in snow, water, and ground. Using digital thermistors, we built chains of sensors that are able to provide temperature at predefined time interval. One is installed in Finse to measure snow temperature gradient and study its impact on snow metamorphism, and another one is keeping track of permafrost temperatures in Jotunheimen mountains. 
+    icon: 
+  - title: Compact weather station
+    description: With today's advances in small and low power sensor, it becomes either to build compact and low power weather stations. In this project, we are testing a suite of new sensors providing detailed information on atmospheric and radiative conditions, and the evolution of the snow pack. This suite of sensors is also cost effective.
+    icon: 'img/news/Lagopus_B.png'
+  - title: Sensing from a drone
+    description: With today's advances in small and low power sensor, it becomes either to build compact and low power weather stations. In this project, we are testing a suite of new sensors providing detailed information on atmospheric and radiative conditions, and the evolution of the snow pack. This suite of sensors is also cost effective.
+    icon: 'img/news/Lagopus_B.png'
+  - title: 4D Time-lapse
+    description: Taking pictures froma variety of viewpoints, it is possible to reconstruct 3D models using photogrammetric softwares like the open-source project <a href="https://micmac.ensg.eu/index.php/Accueil">Micmac</a>. We built a custom-made camera system and Python application <a href="https://github.com/ArcticSnow/photo4D">Photo4D</a> to monitor snow depth or permafrost ground deformation in Slovenian caves.
+    icon: 'img/news/CaveGround.PNG'
+
+#============================================================================
 
 activities:
  - title: Explore
@@ -69,7 +87,7 @@ activities:
 # TODO:
 # center the Push limits
 
-
+#============================================================================
 # Add a section Science Topics
 scienceTopicWelike: Science 
 sciences: 
@@ -86,7 +104,7 @@ sciences:
     description: Biosphere and geosphere interactions
     icon: fa-pagelines
 
-
+#============================================================================
 techWeLike: Tech
 technologies:
   - title: Open-Source Software
@@ -113,7 +131,7 @@ technologies:
 
 
 
-
+#============================================================================
 whatYouCanDo: What You Can Do
 whatYouCanDoStudents: 
 studentContributions:
@@ -138,7 +156,7 @@ allContributions:
 # add a link to or add a subcriscription form. To sign up to the workshop.
 # add a link to a Slack Channel UiOHive! (create the channel)
 
-
+#============================================================================
 events: Events
 eventsSubheading: Our upcoming and recent events
 eventPlaceholder: Nothing yet! Propose an event here.
@@ -150,7 +168,7 @@ pastEvents: See Our Past Events
 # TODO:
 # Get rid of the github animation. This is more of a distraction than really helpful on this first page.
 
-
+#============================================================================
 teamHeadline: Who We Are
 teamSubheading: "We're scientists, students, researchers and engineers looking forward to bring technology in the field"
 interests: Interests
