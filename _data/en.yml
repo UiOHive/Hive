@@ -29,22 +29,17 @@ project_idea: Project Ideas
 projectssSubheading: Inspired by one of these project? Or propose your idea!
 proj:
   - title: GlacierNet
-    description: 'Develop a network protocol for devices distributed in the accumulation zone of a glacier that can measure temperature, water pressure, and - most importantly - that can triangulate their position via a wireless network. Use the network transmission strength to derive ice properties (using a suitable frequency). This project needs to include a good clock synchronisation, or make use of creative solutions. The same idea could also be used in rivers on shorter timescales if any communication solution (e.g. sonar) can be effectively used in liquid water. The project would consist of two parts, one is the design of the WSN, and the second is the field testing and assessment of the scientific merit of the idea.
-'
+    description: 'Develop a network protocol for devices distributed in the accumulation zone of a glacier that can measure temperature, water pressure, and - most importantly - that can triangulate their position via a wireless network. Use the network transmission strength to derive ice properties (using a suitable frequency). This project needs to include a good clock synchronisation, or make use of creative solutions. The same idea could also be used in rivers on shorter timescales if any communication solution (e.g. sonar) can be effectively used in liquid water. The project would consist of two parts, one is the design of the WSN, and the second is the field testing and assessment of the scientific merit of the idea.'
   - title: Triggered Network
-    description: 'In many instances, measurements at high frequency can inform in great detail about physical processes, but WSNs are not designed to handle large amount of data. This project therefore aims at the design of a WSN that could be triggered at will to record high frequency (10-1000Hz) data in short burst, and then upload the data via the network. An example case could be the recordings of wind measurements, or the drifting of snow across multiple weather stations aligned on a transect. With such system, one could study atmospheric processes linked to the boundary layer, or processes related to snow transport across the landscape.
-'
+    description: 'In many instances, measurements at high frequency can inform in great detail about physical processes, but WSNs are not designed to handle large amount of data. This project therefore aims at the design of a WSN that could be triggered at will to record high frequency (10-1000Hz) data in short burst, and then upload the data via the network. An example case could be the recordings of wind measurements, or the drifting of snow across multiple weather stations aligned on a transect. With such system, one could study atmospheric processes linked to the boundary layer, or processes related to snow transport across the landscape.'
   - title: Network as a sensor 
     description: 'Given the frequency at which WSNs operate, this project will explore the possible use of signal attenuation in between a network of stations to derive air water content. This could be accomplished with a single frequency signal or a variety of radio frequencies. The goal here is to use the wireless sensor network to provide spatial knowledge of air moisture content across the whole network.'
   - title: Drone data collection 
-    description: 'Use a drone to collect data from remote stations. Design a logging station that would be installed in remote location, where the use of a drone could simplify and improve data collection safety. A potential use could be for temperature loggers located in cliff for permafrost research, or hydrological monitoring in the case a logger is place somewhere unaccessible.
-'
+    description: 'Use a drone to collect data from remote stations. Design a logging station that would be installed in remote location, where the use of a drone could simplify and improve data collection safety. A potential use could be for temperature loggers located in cliff for permafrost research, or hydrological monitoring in the case a logger is place somewhere unaccessible.'
   - title: Network Topology testing 
-    description: 'Using WSN technology outdoor in remote areas is challenging. This project would test a variety of network topologies to find which ones are best suited for geophysics application. Constraints include remote locations, large distances, harsh environment, and low power availability.  This project could be linked to the “Network as a Sensor” project too.
-'
+    description: 'Using WSN technology outdoor in remote areas is challenging. This project would test a variety of network topologies to find which ones are best suited for geophysics application. Constraints include remote locations, large distances, harsh environment, and low power availability.  This project could be linked to the “Network as a Sensor” project too.'
   - title: Measurement protocols 
-    description: 'Given the constraints of a WSN (battery, memory, processing power, transmission bandwidth, etc.), develop measurement protocols (sampling rate, internal averaging, etc.) optimising the trade-offs between the constraints.
-'
+    description: 'Given the constraints of a WSN (battery, memory, processing power, transmission bandwidth, etc.), develop measurement protocols (sampling rate, internal averaging, etc.) optimising the trade-offs between the constraints.'
   - title: A connected tree
     description: 'develop a network of connected sensors distributed within the canopy of a tree with minimal footprint to record tree motion, temperature, light intensity, etc. '
   - title: Arduino based IoT logger
@@ -54,18 +49,19 @@ proj:
 
 news: News
 newsSubheading: On-going projects
+new:
   - title: Temperature profile
-    description: Measuring temperature profile in snow, water, and ground. Using digital thermistors, we built chains of sensors that are able to provide temperature at predefined time interval. One is installed in Finse to measure snow temperature gradient and study its impact on snow metamorphism, and another one is keeping track of permafrost temperatures in Jotunheimen mountains. 
-    icon: 
+    description: 'Measuring temperature profile in snow, water, and ground. Using digital thermistors, we built chains of sensors that are able to provide temperature at predefined time interval. One is installed in Finse to measure snow temperature gradient and study its impact on snow metamorphism, and another one is keeping track of permafrost temperatures in Jotunheimen mountains.'
+    icon: "img/news/Lagopus_B.png"
   - title: Compact weather station
-    description: With today's advances in small and low power sensor, it becomes either to build compact and low power weather stations. In this project, we are testing a suite of new sensors providing detailed information on atmospheric and radiative conditions, and the evolution of the snow pack. This suite of sensors is also cost effective.
-    icon: 'img/news/Lagopus_B.png'
+    description: 'With today's advances in small and low power sensor, it becomes either to build compact and low power weather stations. In this project, we are testing a suite of new sensors providing detailed information on atmospheric and radiative conditions, and the evolution of the snow pack. This suite of sensors is also cost effective.'
+    icon: "img/news/Lagopus_B.png"
   - title: Sensing from a drone
-    description: With today's advances in small and low power sensor, it becomes either to build compact and low power weather stations. In this project, we are testing a suite of new sensors providing detailed information on atmospheric and radiative conditions, and the evolution of the snow pack. This suite of sensors is also cost effective.
-    icon: 'img/news/Lagopus_B.png'
+    description: 'With today's advances in small and low power sensor, it becomes either to build compact and low power weather stations. In this project, we are testing a suite of new sensors providing detailed information on atmospheric and radiative conditions, and the evolution of the snow pack. This suite of sensors is also cost effective.'
+    icon: "img/news/Lagopus_B.png"
   - title: 4D Time-lapse
-    description: Taking pictures froma variety of viewpoints, it is possible to reconstruct 3D models using photogrammetric softwares like the open-source project <a href="https://micmac.ensg.eu/index.php/Accueil">Micmac</a>. We built a custom-made camera system and Python application <a href="https://github.com/ArcticSnow/photo4D">Photo4D</a> to monitor snow depth or permafrost ground deformation in Slovenian caves.
-    icon: 'img/news/CaveGround.PNG'
+    description: 'Taking pictures froma variety of viewpoints, it is possible to reconstruct 3D models using photogrammetric softwares like the open-source project <a href="https://micmac.ensg.eu/index.php/Accueil">Micmac</a>. We built a custom-made camera system and Python application <a href="https://github.com/ArcticSnow/photo4D">Photo4D</a> to monitor snow depth or permafrost ground deformation in Slovenian caves.'
+    icon: "img/news/CaveGround.PNG"
 
 #============================================================================
 
