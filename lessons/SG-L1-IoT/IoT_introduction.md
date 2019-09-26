@@ -19,5 +19,5 @@ tags:
  - **Lesson Topic**: Introduction to IoT with an Arduino Nano
 
 
-The lesson can be found [here](https://uiohive.github.io/IoT_arduino_nano/).
+The lesson can be found [here](https://carpentries-incubator.github.io/IoT_arduino_nano/).
 
